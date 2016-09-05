@@ -1,6 +1,17 @@
 
 # Stop Animation
 
+9/5/2016 Fork Update
+
+This is my first use of GitHub so I might not be doing things right.  I have updated this Stop Animations extension to include the option to stop animations on just a single screen (as often animations are mostly above the fold.
+
+I have also modified the size it outputs the screen shots to compensate for the vertical scroll bar.  I suspect this is going to be different depending on which platform one is on so it might not come out right on a Mac, Chromebook, or Linux device.
+
+
+
+
+--------------------
+
 Chrome extension to stop animations from distracting you while reading.
 
 Just press the escape key [esc]... and press again to restore.
